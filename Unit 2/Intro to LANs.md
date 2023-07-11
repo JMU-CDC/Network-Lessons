@@ -34,10 +34,11 @@ Broadcast Traffic (ARP requests and such) will be contained to that LAN.
 
 ### Ethernet
 Is a collection of different standards that are used for LAN communication. [[Etherchannels]]
-- Family of standards, defined by the IEEE that describes the data link and physical layer. 
+- Family of standards, defined by the IEEE that describes the data link and physical layer.
 **![](https://lh3.googleusercontent.com/Kdd6cxycFmYDgdJ5iO2Ancz-PWJX0KkRNIQle_JLGNOogcP0F7xMpQ5EPiwVHRJQjRS0kYMeNUyp-QDV5ARAYELC4vdk2pEFkwAQcLxxA0Le453odGSTQMM7CU2OZ-xlrCz0xSKNabtvdIzQjsUjrHA)**
-Each different speed of connection is a different **Ethernet** standard. 
+- Each different speed of connection is a different **Ethernet** standard. 
 For example: 
+
 **![](https://lh6.googleusercontent.com/coYb-TdPcMzZq7JMwXc8MvtLBdTjMfOp7ItGJDwpXJ1RLdhYYIqkGnaGd57649IPh8N_x8ApGBd8Je_IuCJ76avCT_Hh1HWAASUH2h3mmNlUICX7HhmLl7QNq8AiqWtO3AiiOhfpYSHwR3N7UXaYc_U)**
 - In the figure above, we are using **FOUR** different Ethernet standards. 
 
