@@ -1,4 +1,4 @@
-[Reading Material](Network-Lessons/Unit-2/Private-VLANs.md)
+[Reading Material](/Private-VLANs.md)
 
 ### Trunk
 - Lets us tag frames as they're leaving a switch, in order for the next switch(es) to know where to send things.
