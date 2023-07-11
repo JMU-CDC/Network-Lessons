@@ -25,7 +25,7 @@
 	- Address or area aggregation or summarization 
 	- Departmental or workgroup access
 	- Broadcast or multicast domain definition
-	- Routing between virtual LANs ([[VLANS |VLANs]]) 
+	- Routing between virtual LANs ([VLANs](/VLANS.md) 
 	- Media translations 
 		- Between Ethernet and Token Ring
 	- Redistribution between routing domains 
@@ -33,7 +33,7 @@
 	- Demarcation between static and dynamic routing protocols.
 
 ### Access Layer
-- Provides user access to local segment on the network. Characterized by switched [[Intro to LANs|LAN]] segments in a campus environment. Micro segmentation using LAN switches provides high bandwidth to workgroups by reducing the number of devices on Ethernet segments. 
+- Provides user access to local segment on the network. Characterized by switched [Intro to LANs](/Intro-to-LANs.md) segments in a campus environment. Micro segmentation using LAN switches provides high bandwidth to workgroups by reducing the number of devices on Ethernet segments. 
 - #### Following functions for the Access Layer:
 	- Layer 2 switching 
 	- High availability
