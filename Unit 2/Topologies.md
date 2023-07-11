@@ -25,7 +25,7 @@
 	- Address or area aggregation or summarization 
 	- Departmental or workgroup access
 	- Broadcast or multicast domain definition
-	- Routing between virtual LANs ([VLANs](/VLANS.md) 
+	- Routing between virtual LANs ([VLANs](/VLANS.md))
 	- Media translations 
 		- Between Ethernet and Token Ring
 	- Redistribution between routing domains 
