@@ -1,4 +1,4 @@
-Much like regular [[VLANS]]
+Much like regular [VLANs](./VLANS.md)
 - But a sort of "Sub-VLAN" within a VLAN. 
 
 Sometimes we want to further isolate devices, without creating a whole new VLAN for them. 
