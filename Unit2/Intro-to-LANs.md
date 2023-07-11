@@ -58,8 +58,9 @@ For example:
 - Breaking up broadcast storms
 **![](https://lh5.googleusercontent.com/EtNSQqagHsKO_8lXE91TpGMJs6JrwJsSFgETg4nH0nKCz7JN6Z66ku7xgCuwEtRsrwE--FrkkSg2TOFNDRYAuQYYNsVV5xN-m27laVQLlT8_KA9HSCm_l5bnaCZPtyLTur9Ce4fhCjh3bI2dbvozkoo)**
 - We replaced SW1 with a router. So now instead of a single broadcast domain, we have three broadcast domains. As seen in the figure below. 
-	- This can be a bit inefficient. Note that this is where [[VLANS]] come into play. 
-![[Pasted image 20230711123115.png]]
+	- This can be a bit inefficient. Note that this is where [VLANs](./VLANS.md) come into play.
+ 
+![](https://media.discordapp.net/attachments/1037526868489940992/1120731305416597674/8PUPQbkQY4AU4AAAAASUVORK5CYII.png)
 
 ### Switches 
 - A switch will start to build its MAC address table as it receives traffic from devices on its own. 
