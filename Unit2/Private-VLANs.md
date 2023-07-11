@@ -22,7 +22,7 @@ Say you own several apartment buildings, all connected to the same network. We c
 [Cisco Private VLANs Reading](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus3000/sw/layer2/503_U2_1/b_Cisco_n3k_layer2_config_guide_503_U2_1/b_Cisco_n3k_layer2_config_gd_503_U2_1_chapter_0101.pdf)
 
 #### Intro to VLANs
-[Cisco Intro to VLANs](https://www.ciscopress.com/articles/printerfriendly/2181837)
-[Another Guide - Cisco](https://www.ciscopress.com/articles/printerfriendly/2208697)
-[VLANs - Trunks - VTP](https://www.ciscopress.com/articles/printerfriendly/2348266)
+- [Cisco Intro to VLANs](https://www.ciscopress.com/articles/printerfriendly/2181837)
+- [Another Guide - Cisco](https://www.ciscopress.com/articles/printerfriendly/2208697)
+- [VLANs - Trunks - VTP](https://www.ciscopress.com/articles/printerfriendly/2348266)
 
