@@ -62,8 +62,13 @@ So if we want to find "www-kelloggs-com"
 	- Basic ones are A, CNAME, PTR 
 ### Few Commands to Know
 - host
+
 **![](https://lh4.googleusercontent.com/ioENXvrrzrKbFJwp-H7hb3Aykmc9InZDt00p4iV_AOsKchx1iE_EGCyalT278hjBQP32kr7f1senykTvnC9M0Vd2oW950ogiwTyGPZtUsOV7VKFHg3vOFx9XN7wsMQi94KBvAujW9SMEPZ5DdAL8gBQ)**
+
 - nslookup
+  
 **![](https://lh3.googleusercontent.com/HjEz_GU0E5I5Tb_1aDosnRvpS-ntEAbiO6zuv3M07ADDrtuPtDEXY39aaJ0QLx72r-SqqhlvV7FC-TA5mAW_M1rdwoSJYCr_DGH_kVMVxVjEQlPWgY0plaoQQgsHWMawfvzOMa1PfO-tIj9omdBXBIE)**
+
 - dig
+
 **![](https://lh3.googleusercontent.com/4Ix6HOOwo713MyalGvtuo2abCgksSALaes47KDP7xfjJXzXyLbcnmMHA4VxFFZ8pbXXeNbLcitgcmWSlnaJAlPqY1uSKQlk9RjR7E3cnkJTseMvWeVDGBN5W2sBiiJVD5PtYqYRonLpGXX_aT_I_Vck)**
