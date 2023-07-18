@@ -152,7 +152,9 @@ Note: Layer 3 packets do contain the source and destination IPs of the computers
 ![](https://lh6.googleusercontent.com/-AgGTplU5a1HnhepuUBNi4tn3HKznx73B9DXKrQ-F7IacvMElxrQ4BxfrPwbWMo8uuBWNWecWJ5yUzvovD44yYHPTMZaebokIEGsAAftiiJvq48sZspM5IPOg0UYxivXlenL4yQIeXjG9RG3iwH-0Sk)
 
 - From a simple ping between PC0 and PC2.
+
 ![](https://lh3.googleusercontent.com/L0qNWk2EECfqARL-a5t2D35PNgC_TMNStnarDnhClEkvrP-awNJ_3kMKyAhYHn1TqYAc7H12P6z980k0MJgTBGURXfEFH95cGe-4vwj9CEsxPHxkh1MhANvAYu3eBT66V9D-cOootMng8jvxfBjh-YA)
+
 - We can see Layer 3 headers (source and destination IPs) as well as the Layer 2 headers (Source and destination MAC address)
 
 ##### The switch - when it gets the envelope
