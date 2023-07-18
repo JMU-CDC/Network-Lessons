@@ -5,5 +5,6 @@ If you have any questions about the material, or if you want to have a discussio
 
 
 Syllabus: 
+- [Unit 1](./Unit1)
 - [Unit 2](./Unit2)
 
